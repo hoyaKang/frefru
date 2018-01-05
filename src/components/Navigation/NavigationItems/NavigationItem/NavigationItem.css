@@ -1,0 +1,11 @@
+.NavigationItem {
+    display: flex;
+    height: 100%;
+    width: auto;
+    align-items: center;
+}
+
+.NavigationItem a {
+    color: #333;
+    border-bottom: 4px solid black;
+}
