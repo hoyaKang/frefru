@@ -1,0 +1,13 @@
+.FruitInfo img {
+    width: 100px;
+    height:100px;
+}
+
+.Intro {
+    width: 60%;
+    height: auto;
+    margin: 25px auto;
+    padding: 18px 22px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
